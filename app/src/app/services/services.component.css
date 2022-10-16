@@ -1,0 +1,33 @@
+body{
+    margin-top: 50px;
+    width: 100%;
+    height: 1000px;
+    display: flex;
+}
+.heading{
+    text-align: center;
+    padding-bottom: 30px;
+    color: rgb(78, 57, 18);
+}
+.inner{
+    margin-left: 30px;
+    width: 30%;
+    height:600px;
+}
+.img img{
+    border: 5px solid rgba(58, 45, 45, 0.345);
+}
+.ser1{
+    float: left;
+}
+
+.ser2{
+    float: left;
+    margin-left: 300px;
+}
+
+.ser3{
+    margin-top: 50px;
+}
+
+
